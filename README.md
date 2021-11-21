@@ -11,7 +11,7 @@ This challenge was to refactor the HTML and CSS code of the Horiseon webpage to 
 This challenge required improving the HTML semantic elements. It required the combining of  CSS selectors. Comments were inlcuded before each section to explain the changes that were made.
 
 During this challenge, I came across many difficulties in pushing my code to GitHub. Once I created a local folder to "house my work" it was easier to locate my html, css, images, etc., and push to GitHub. 
-Another challenge I came across was understanding the difference between <div> and <section>. After speaking with my tutor, I was able to discern which semantic elements to use.
+Another challenge I came across was understanding the difference between different HTML semantic elements. After speaking with my tutor, I was able to discern which semantic elements to use.
 It was easier to look at the HTML code in "sections" to understand where it related on the website. Being able to visual this made it easier to refactor the code.
 
 
