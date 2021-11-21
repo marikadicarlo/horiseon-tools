@@ -4,13 +4,15 @@
 
 ![digital-marketing-meeting](./assets/images/digital-marketing-meeting.jpg)
 
-Horiseon Refactor Challenge --
+## HoriSEOn Refactor Challenge
 
-This assignment was to refactor the HTML and CSS code of the Horiseon webpage to make it accessible, making sure to follow the "Scout Rule" which recommends that you always leave the code a little cleaner than when you found it, especially when working with someone else's code.
+This challenge was to refactor the HTML and CSS code of the Horiseon webpage to make it accessible, being sure to follow the "Scout Rule", which recommends that you always leave the code a little cleaner than when you found it, especially when working with someone else's code.
 
-This challenge required improving the HTML semantic elements because the code was too long. It required the combining of  CSS selectors. Comments were inlcuded before each section to explain changes that were made.
+This challenge required improving the HTML semantic elements. It required the combining of  CSS selectors. Comments were inlcuded before each section to explain the changes that were made.
 
-By completing this challenge, I learned that I had difficulties with pushing my code to GitHub. 
+During this challenge, I came across many difficulties in pushing my code to GitHub. Once I created a local folder to "house my work" it was easier to locate my html, css, images, etc., and push to GitHub. 
+Another challenge I came across was understanding the difference between <div> and <section>. After speaking with my tutor, I was able to discern which semantic elements to use.
+It was easier to look at the HTML code in "sections" to understand where it related on the website. Being able to visual this made it easier to refactor the code.
 
 
 
