@@ -41,7 +41,6 @@ body {
     margin-left: 25px;
 }
 
-/* Type Selector */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -51,7 +50,6 @@ p {
     font-size: 16px;
 }
 
-/* Class Selector */
 .hero {
     height: 800px;
     width: 100%;
